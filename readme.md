@@ -35,7 +35,7 @@ END;
 
 
 #### a)	What will be the final value of a, b, and j 
-   :grining:
+   :grinning: first we have to correct this PL/SQl Code there after we have changed it we correct questions related to it.
 #### b) The message “ b is greater than j” will be displayed how many times ?  :wink:
 
 #### c) How many times the message “ j is less than b” will be displayed ? 
