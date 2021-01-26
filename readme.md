@@ -1,6 +1,6 @@
-# Write a **PL/SQL** Program that displays 'Hello' + your name 5000 times. 
-# Analyse the following program and answer questions a, b,  c, d, e, and f.
-```oracle pl/sql
+### Write a **PL/SQL** Program that displays 'Hello' + your name 5000 times. 
+### Analyse the following program and answer questions a, b,  c, d, e, and f.
+```pl/sql
 DECLARE
 	a  int;
 	b int :=10;
@@ -34,20 +34,20 @@ END;
 ```
 
 
-## a)	What will be the final value of a, b, and j 
+#### a)	What will be the final value of a, b, and j 
         >>> File One :grining:
-## b) The message “ b is greater than j” will be displayed how many times ?  :wink:
+#### b) The message “ b is greater than j” will be displayed how many times ?  :wink:
 
-## c) How many times the message “ j is less than b” will be displayed ? 
-## d) How many times the message “ now j is great than b” will be displayed ? 
-## e) The message “ now j is great than b” Will be displayed how many times? :mask:
-## f) When b and j meets, b=?, j=? a=?   :grimacing:
+#### c) How many times the message “ j is less than b” will be displayed ? 
+#### d) How many times the message “ now j is great than b” will be displayed ? 
+#### e) The message “ now j is great than b” Will be displayed how many times? :mask:
+#### f) When b and j meets, b=?, j=? a=?   :grimacing:
 
-# Write a PL/SQL program to retrieve the content (all) of faculty table. The following is the structure of faculty table: 
+### Write a PL/SQL program to retrieve the content (all) of faculty table. The following is the structure of faculty table: 
 F_id     | F_description
 ---------|--------------
 primary key, int, not null |varchar(55) not null
 
 @cizamihigo
 
-### <Made By > TaKe.THe.RiSK
+##### <Made By > TaKe.THe.RiSK
