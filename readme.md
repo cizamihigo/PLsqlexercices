@@ -1,6 +1,6 @@
 ### Write a **PL/SQL** Program that displays 'Hello' + your name 5000 times. 
 ### Analyse the following program and answer questions a, b,  c, d, e, and f.
-```pl/sql
+```sql
 DECLARE
 	a  int;
 	b int :=10;
@@ -35,7 +35,7 @@ END;
 
 
 #### a)	What will be the final value of a, b, and j 
-        >>> File One :grining:
+   :grining:
 #### b) The message “ b is greater than j” will be displayed how many times ?  :wink:
 
 #### c) How many times the message “ j is less than b” will be displayed ? 
